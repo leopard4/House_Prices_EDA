@@ -173,3 +173,6 @@ YrSold : 판매 연도
 SaleType : 판매 유형
 
 SaleCondition : 판매 조건
+
+
+https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python
